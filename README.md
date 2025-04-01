@@ -1,1 +1,1 @@
-# otus-cpp-hw1
+Repository for the first homework on the OTUS C++ basic course.
